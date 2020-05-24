@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7aa30220-1596-49b3-b549-0bcdb8da1712" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Task_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,98 +36,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Rich_lab_3/lab3_numpy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab3/pics" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Task_3 (1)">
-    <configuration name="Task_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Labs_2.2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab2/Task_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task_1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Labs_2.2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/Task_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Labs_2.2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab2/Task_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task_2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Labs_2.2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/Task_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Alex\Work\Study\Programming\Python\Labs_2.2\Lab3\pics" />
+      <recent name="D:\Alex\Work\Study\Programming\Python\Labs_2.2\Lab3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Alex\Work\Study\Programming\Python\Labs_2.2\Lab3\pics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Task_7">
     <configuration name="Task_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Labs_2.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,13 +71,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs_2.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/Task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs_2.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/Task_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs_2.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/Task_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs_2.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/Task_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_7" />
+        <item itemvalue="Python.Task_6" />
+        <item itemvalue="Python.Task_5" />
+        <item itemvalue="Python.Task_4" />
         <item itemvalue="Python.Task_3 (1)" />
-        <item itemvalue="Python.Task_2 (2)" />
-        <item itemvalue="Python.Task_1 (2)" />
-        <item itemvalue="Python.Task_2 (1)" />
-        <item itemvalue="Python.Task_1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +187,11 @@
       <workItem from="1587749432447" duration="687000" />
       <workItem from="1587833786507" duration="3983000" />
       <workItem from="1587980168775" duration="6294000" />
-      <workItem from="1588016625002" duration="2628000" />
+      <workItem from="1588016625002" duration="2844000" />
+      <workItem from="1588865005264" duration="5643000" />
+      <workItem from="1588871609683" duration="1478000" />
+      <workItem from="1588935752836" duration="4157000" />
+      <workItem from="1590314608829" duration="5711000" />
     </task>
     <servers />
   </component>
@@ -183,35 +199,35 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-924" y="23" key="FileChooserDialogImpl" timestamp="1587980200635">
+    <state x="-924" y="23" key="FileChooserDialogImpl" timestamp="1588865155406">
       <screen x="-1080" y="-541" width="1080" height="1920" />
     </state>
-    <state x="-924" y="23" key="FileChooserDialogImpl/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1587980200635" />
+    <state x="-924" y="23" key="FileChooserDialogImpl/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1588865155406" />
     <state x="278" y="317" key="FileChooserDialogImpl/-1080.-541.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1587641365310" />
-    <state width="1037" height="287" key="GridCell.Tab.0.bottom" timestamp="1588020383792">
+    <state width="1034" height="120" key="GridCell.Tab.0.bottom" timestamp="1590320277400">
       <screen x="-1080" y="-541" width="1080" height="1920" />
     </state>
-    <state width="1037" height="287" key="GridCell.Tab.0.bottom/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1588020383792" />
+    <state width="1034" height="120" key="GridCell.Tab.0.bottom/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1590320277400" />
     <state width="914" height="142" key="GridCell.Tab.0.bottom/-1080.-541.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1587842923811" />
-    <state width="1037" height="287" key="GridCell.Tab.0.center" timestamp="1588020383792">
+    <state width="1034" height="120" key="GridCell.Tab.0.center" timestamp="1590320277400">
       <screen x="-1080" y="-541" width="1080" height="1920" />
     </state>
-    <state width="1037" height="287" key="GridCell.Tab.0.center/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1588020383792" />
+    <state width="1034" height="120" key="GridCell.Tab.0.center/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1590320277400" />
     <state width="914" height="142" key="GridCell.Tab.0.center/-1080.-541.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1587842923811" />
-    <state width="1037" height="287" key="GridCell.Tab.0.left" timestamp="1588020383792">
+    <state width="1034" height="120" key="GridCell.Tab.0.left" timestamp="1590320277400">
       <screen x="-1080" y="-541" width="1080" height="1920" />
     </state>
-    <state width="1037" height="287" key="GridCell.Tab.0.left/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1588020383792" />
+    <state width="1034" height="120" key="GridCell.Tab.0.left/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1590320277400" />
     <state width="914" height="142" key="GridCell.Tab.0.left/-1080.-541.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1587842923811" />
-    <state width="1037" height="287" key="GridCell.Tab.0.right" timestamp="1588020383792">
+    <state width="1034" height="120" key="GridCell.Tab.0.right" timestamp="1590320277400">
       <screen x="-1080" y="-541" width="1080" height="1920" />
     </state>
-    <state width="1037" height="287" key="GridCell.Tab.0.right/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1588020383792" />
+    <state width="1034" height="120" key="GridCell.Tab.0.right/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1590320277400" />
     <state width="914" height="142" key="GridCell.Tab.0.right/-1080.-541.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1587842923811" />
-    <state x="0" y="185" key="SettingsEditor" timestamp="1587641368565">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1080" y="-212" key="SettingsEditor" timestamp="1588870956650">
+      <screen x="-1080" y="-541" width="1080" height="1920" />
     </state>
-    <state x="-1080" y="-212" key="SettingsEditor/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1583185798908" />
+    <state x="-1080" y="-212" key="SettingsEditor/-1080.-541.1080.1920/0.0.1920.1080@-1080.-541.1080.1920" timestamp="1588870956650" />
     <state x="0" y="185" key="SettingsEditor/-1080.-541.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1587641368565" />
     <state x="-1087" y="419" width="1094" height="967" key="dock-window-1" timestamp="1587641212567">
       <screen x="-1080" y="-541" width="1080" height="1920" />
@@ -220,12 +236,16 @@
     <state x="-1087" y="419" width="1094" height="967" key="dock-window-1/-1080.-541.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1587641212567" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Labs_2_2$Task_3__1_.coverage" NAME="Task_3 (1) Coverage Results" MODIFIED="1588020383786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/Labs_2_2$Task_3__1_.coverage" NAME="Task_3 (1) Coverage Results" MODIFIED="1588867464217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/Labs_2_2$Task_6.coverage" NAME="Task_6 Coverage Results" MODIFIED="1590319515767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Labs_2_2$Task_3.coverage" NAME="Task_3 Coverage Results" MODIFIED="1581970390383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab1" />
     <SUITE FILE_PATH="coverage/Labs_2_2$Task_2__1_.coverage" NAME="Task_2 (1) Coverage Results" MODIFIED="1587655992870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
+    <SUITE FILE_PATH="coverage/Labs_2_2$Task_5.coverage" NAME="Task_5 Coverage Results" MODIFIED="1590317719042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/Labs_2_2$Task_7.coverage" NAME="Task_7 Coverage Results" MODIFIED="1590320277390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Labs_2_2$Task_2.coverage" NAME="Task_2 Coverage Results" MODIFIED="1581970265276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab1" />
     <SUITE FILE_PATH="coverage/Labs_2_2$Task_1__2_.coverage" NAME="Task_1 (2) Coverage Results" MODIFIED="1587841970762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Labs_2_2$Task_2__2_.coverage" NAME="Task_2 (2) Coverage Results" MODIFIED="1587842827542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/Labs_2_2$Task_4.coverage" NAME="Task_4 Coverage Results" MODIFIED="1588869569448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Labs_2_2$Task_1__1_.coverage" NAME="Task_1 (1) Coverage Results" MODIFIED="1583185043254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
   </component>
 </project>
