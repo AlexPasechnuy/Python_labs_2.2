@@ -1,5 +1,6 @@
 import numpy as np
 from functools import reduce
+import time
 
 def npCalcDiagProd(matr):
     D = [matr[i, i] for i in range(min(matr.shape[0], matr.shape[1])) if matr[i, i] != 0]
